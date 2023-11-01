@@ -1,6 +1,6 @@
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPhone-1.png)
+![Svetofon](https://github.com/mavrinpn/Svetofon-App/raw/main/Svetofon_AppStore_Screenshots_1.png)
 
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPhone-2.png)
+![Svetofon](https://github.com/mavrinpn/Svetofon-App/raw/main/Svetofon_AppStore_Screenshots_2.png)
 
 # About
 
@@ -31,9 +31,7 @@ To create unique training complexes, a proprietary protocol for storing and play
 
 ## Supports iPad
 
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPad-1.png)
-
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPad-2.png)
+![Svetofon](https://github.com/mavrinpn/Svetofon-App/raw/main/Svetofon_AppStore_Screenshots_3.png)
 
 
 My LinkedIn: [Pavel Mavrin](https://www.linkedin.com/in/pavel-mavrin-developer/)
