@@ -8,10 +8,10 @@ Svetofon is a mobile native application developed with a fully custom design for
 
 A hybrid format is used for user authentication: primary authentication is performed by entering a PIN code sent to the user's email. Further work is carried out in completely offline mode. At the same time, user data is backed up on the server, if necessary, authentication takes place through a previously saved token.
 
-Bluetooth LE 4.0 protocol is used to interface with an external device (smart simulator). A command system and a communication protocol between the application and the smart trainer have been developed.
+Bluetooth LE 4.0 protocol is used to interface with an external device (smart trainer). A command system and a communication protocol between the application and the smart trainer have been developed.
 
 As part of the training statistics collection system, a module for exporting user training history to xlsx format has been developed.
-To create unique training complexes, a proprietary protocol for storing and playing exercises in json format has been developed. At the same time, the user has the opportunity to create their own exercises through the configurator, set the necessary parameters and export/import the received training complexes.
+To create unique training complexes, a proprietary protocol for storing and playing exercises in JSON format has been developed. At the same time, the user has the opportunity to create their own exercises through the configurator, set the necessary parameters and export/import the received training complexes.
 
 ## AppStore
 
